@@ -10,9 +10,11 @@
 
 ## 效果演示
 
-![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262228020.png)
+![plane1](https://github.com/huanfenz/Play-the-plane/assets/49386166/dd51ae00-c0ca-4a8d-b5a2-9cb4cc22fc6d)
 
-## ![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262236286.png)
+
+![plane2](https://github.com/huanfenz/Play-the-plane/assets/49386166/5c9f3718-601e-410f-8130-8b5eadabbcad)
+
 
 
 
